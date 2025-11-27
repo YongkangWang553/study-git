@@ -10,4 +10,6 @@ func main() {
 	log.Println("I am learing git")
 
 	log.Println("我在dev分支上进行的添加")
+
+	log.Println("我第二次在dev分支上进行的添加")
 }
