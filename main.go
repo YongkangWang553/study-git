@@ -8,4 +8,6 @@ func main() {
 	log.Println("hello world")
 
 	log.Println("I am learing git")
+
+	log.Println("我在dev分支上进行的添加")
 }
